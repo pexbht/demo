@@ -14,3 +14,9 @@ if($str =~ /^[0-9,a-z,A-Z]+$/){
     print "$str\n";
 	print "Not Valid \n ";
 }
+
+
+
+
+
+
